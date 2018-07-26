@@ -1,6 +1,6 @@
 # JavaScript_Asteroids
 
-[LIVE DEMO](https:https://jturgeon88.github.io/JavaScript_Asteroids/ "JavaScript Asteroids Demo")
+[LIVE DEMO](https://jturgeon88.github.io/JavaScript_Asteroids "JavaScript Asteroids Demo")
 
 Arcade classic built for the browser using JavaScript and HTML Canvas element.
 
