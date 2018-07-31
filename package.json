@@ -7,5 +7,21 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jturgeon88/JavaScript_Asteroids.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/jturgeon88/JavaScript_Asteroids/issues"
+  },
+  "homepage": "https://github.com/jturgeon88/JavaScript_Asteroids#readme",
+  "devDependencies": {
+    "webpack": "^4.16.3",
+    "webpack-cli": "^3.1.0"
+  }
 }
